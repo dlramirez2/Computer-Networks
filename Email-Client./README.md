@@ -3,9 +3,9 @@
 ### The developed email client connects to a SMTP server and communicates using the protocol’s standard to send an email to any email address.
 
 ## Execute the Script:
-* python3 Ramirez_EmailClient.py
+* _python3 Ramirez_EmailClient.py_
 
-* py Ramirez_EmailClient.py
+* _py Ramirez_EmailClient.py_
 #### References
 ##### [SMTP Commands](https://www.samlogic.net/articles/smtp-commands-reference.htm)
 
