@@ -2,7 +2,7 @@
 
 ### The developed email client connects to a SMTP server and communicates using the protocol’s standard to send an email to any email address.
 
-## Execute the Script:
+## Execute the Script: _must connect to VPN or be inside the private network_
 * _python3 Ramirez_EmailClient.py_
 
 * _py Ramirez_EmailClient.py_
