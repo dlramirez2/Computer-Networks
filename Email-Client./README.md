@@ -2,7 +2,9 @@
 
 ### The developed email client connects to a SMTP server and communicates using the protocol’s standard to send an email to any email address.
 
- _Ramirez_EmailClient.py: must connect to VPN or be inside the private network. Ramirez_ExtEmailClient.py: works for any valid Gmail account_
+ _Ramirez_EmailClient.py: must connect to VPN or be inside the private network_ 
+ 
+ _Ramirez_ExtEmailClient.py: works for any valid Gmail account_
 ## Execute the Script:
 * _python3 Ramirez_EmailClient.py_ or _python3 Ramirez_ExtEmailClient.py_
 
