@@ -4,7 +4,7 @@
 
  _Ramirez_EmailClient.py: must connect to VPN or be inside the private network_ 
  
- _Ramirez_ExtEmailClient.py: works for any valid Gmail account_
+ _Ramirez_ExtEmailClient.py: works for any valid Gmail account. 2-factor authentication should be disabled.'Less secure app access' should be turned on_
 ## Execute the Script:
 * _python3 Ramirez_EmailClient.py_ or _python3 Ramirez_ExtEmailClient.py_
 
