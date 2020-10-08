@@ -28,9 +28,18 @@ received, it sends the last in-ordered packet’s sequence # as ACK
 
 ---
 
-**Executing Script:**
+## Executing Script:
 
-Run the following commands in order:
+Run the following commands in order to use SnW:
+* *python3 receiver.py*
+   
+   uncomment *receive_snw(sock)* at main function
+
+* *python3 sender.py*
+   
+   uncomment *send_snw(sock)* at main function
+   
+Run the following commands in order to use GBN Protocol:
 * *python3 receiver.py*
    
    uncomment *receive_gbn(sock)* at main function
