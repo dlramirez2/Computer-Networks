@@ -32,7 +32,10 @@ received, it sends the last in-ordered packet’s sequence # as ACK
 
 Run the following commands in order:
 * *python3 receiver.py*
+   
+   uncomment *receive_gbn(sock)* at main function
 
 * *python3 sender.py*
- 
+   
+   uncomment *send_gbn(sock)* at main function
 > *receiver.py* must be executing before beginning execution of *sender.py* for the file transfer to be demonstrated 
