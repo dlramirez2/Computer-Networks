@@ -1,6 +1,6 @@
 # Packet Sniffing
 
-Learned how to use a well-known sniffing tool, scapy. Wrote a simple sniffer and filtering programs to gain an in-depth understanding of the technical aspects of packet sniffing tools.
+Learned how to use a well-known sniffing tool, scapy. Wrote a simple sniffer and filter program to gain an in-depth understanding of the technical aspects of packet sniffing tools.
 
 ## Environment Setup:
 
