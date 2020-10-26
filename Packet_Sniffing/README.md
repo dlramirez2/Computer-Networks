@@ -17,7 +17,7 @@ Learned how to use a well-known sniffing tool, scapy. Wrote a simple sniffer and
   
 * mySniffer.c 
   * Compile C file using:
-    * gcc -o [output_file_name] mySniffer.c -lpcap
+    * *gcc -o [output_file_name] mySniffer.c -lpcap*
   
   * Execute C file:
-    * ./mySniffer (Substitute mySniffer with output_file_name selected when compiling)
+    * *./mySniffer* (Substitute mySniffer with output_file_name selected when compiling)
