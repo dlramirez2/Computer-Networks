@@ -13,7 +13,7 @@ Learned how to use a well-known sniffing tool, scapy. Wrote a simple sniffer and
 ## Executing Sniffers:
 
 * Sniffer.py
-  * *python3 sniffer.py
+  * *python3 sniffer.py*
   
 * mySniffer.c 
   * Compile C file using:
