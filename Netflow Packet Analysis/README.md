@@ -16,6 +16,6 @@ A little experience on analyzing the publicly available network measurement data
  
  * Run script: 
  
- *python3 Ramirez_dianaAssing3.py*
+ *python3 Ramirez_DianaAssing5.py*
  
  (all tasks are done in the same script, feel free to comment task operations)
